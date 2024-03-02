@@ -40,7 +40,7 @@ const (
 	FALSE = "FALSE" 
 	IF = "IF"
 	ELSE = "ELSE"
-	RETURN = "RETRUN"
+	RETURN = "RETURN"
 )
 
 
